@@ -1,0 +1,7 @@
+School District Analysis                          Jake Burns
+
+Observations:
+
+The presented data makes a notable first impression regarding the difference in overall passing percentage between charter schools and district schools. Even looking at this data, it would likely be hard to argue that charter schools have a higher success rate due to the fact that they have a lower "per student budget". One could use this data as a jumping off point in order to investigate why the success is different despite "fewer resources". Perhaps the issue is not the amount of funds, but how the funds are being allocated. It's important not to jump to conclusions when presented information but to understand the gathered data and responsibly present that data to the employer/decision maker. 
+
+One of the most interesting observations I gathered from the school summary data was the difference in the percent of students passing Math versus the percent of students passing Reading. The percent of students passing Math was lower in every single school in the observed school district. It appears that the reading curriculum is emphasized across the board despite the many differences in structure and resources. This result should be investigated to determine the causality.
